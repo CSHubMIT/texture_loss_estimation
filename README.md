@@ -1,6 +1,6 @@
 # Repository: texture_loss_estimation  
 
-This framework and its instructions (all below) make use of QGIS and MATLAB.  
+This framework and its instructions make use of QGIS and MATLAB.  
 
 
 
